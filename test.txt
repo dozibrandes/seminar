@@ -1,2 +1,2 @@
 Hallo Welt - bearbeitet mit Nano!
-
+Noch mehr Text - die Datei wurde aber schon mal commited!
