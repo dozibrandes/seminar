@@ -1,0 +1,7 @@
+# folder for Builds
+_build/
+# Dolphin
+.directory
+# lokale, persönliche Datei
+localinfos.txt
+
