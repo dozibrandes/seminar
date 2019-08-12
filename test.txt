@@ -1,3 +1,4 @@
 Hallo Welt - bearbeitet mit Nano!
 Noch mehr Text - die Datei wurde aber schon mal commited!
 Jetzt doch glatt noch ne Zeile!
+Und hier noch Text nach dem Stagen (also: Datei in Index geadded).
