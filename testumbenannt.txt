@@ -1,10 +1,6 @@
 Hallo Welt - bearbeitet mit Nano!
 Noch mehr Text - die Datei wurde aber schon mal commited!
 Jetzt doch glatt noch ne Zeile!
-Und hier noch Text nach dem Stagen (also: Datei in Index geadded).
 
 
-Hier mal für die Gegenüberstellung von Working Tree - Index (Staged Area) - Git Repo
-
-
-Und hier noch eine letzte Änderung (Working Tree)
+Vieles gelöscht und diese Zeile im Branch testzweig hinzugefügt.
